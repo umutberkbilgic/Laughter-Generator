@@ -21,7 +21,7 @@ int main()
 
 	// _init_
 	string user = "";
-	cout << "Select laughter density: \n[1] Komik\n[2] qomiq\n[3] olm cok iyi lan\n[4] yarildim aq\n" << endl;
+	cout << "Select laughter density: \n[1] Funny\n[2] lol\n[3] XDDD LMAO\n[4] IM DEAD OMG LOL :'D\n" << endl;
 
 	// main loop
 	while (user != "exit")
